@@ -1,0 +1,108 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Assets/Data.txt</file>
+        <file>img/bg/Concert.jpg</file>
+        <file>img/bg/movies.jpg</file>
+        <file>img/bg/Plays.jpg</file>
+        <file>img/bg/Sports.jpg</file>
+        <file>img/icons/004-Minus-512.png</file>
+        <file>img/icons/clapperboard.png</file>
+        <file>img/icons/election-event-on-a-calendar-with-star-symbol.png</file>
+        <file>img/icons/expand_4-512.png</file>
+        <file>img/icons/github-logo.png</file>
+        <file>img/icons/icons_exit2-512.png</file>
+        <file>img/icons/if_minimize_2561470.png</file>
+        <file>img/icons/information-button.png</file>
+        <file>img/icons/linkedin.png</file>
+        <file>img/icons/minus.png</file>
+        <file>img/icons/plus.png</file>
+        <file>img/icons/Previous_2-512.png</file>
+        <file>img/icons/runer-silhouette-running-fast.png</file>
+        <file>img/icons/theatre-masks.png</file>
+        <file>img/icons/ticket.png</file>
+        <file>img/icons/trending.png</file>
+        <file>img/icons/twitter.png</file>
+        <file>img/icons/Untitled-2.png</file>
+        <file>img/poster/events/next weekend/Comic Scene.jpg</file>
+        <file>img/poster/events/next weekend/Kalla List.jpg</file>
+        <file>img/poster/events/next weekend/mid night cycling.jpg</file>
+        <file>img/poster/events/next weekend/Puppet Marketing WorkShop.jpg</file>
+        <file>img/poster/events/next weekend/shadows.jpg</file>
+        <file>img/poster/events/this weekend/atul khatri live.jpg</file>
+        <file>img/poster/events/this weekend/indias film project.jpg</file>
+        <file>img/poster/events/this weekend/kunal kamra.jpg</file>
+        <file>img/poster/events/this weekend/lol speed dating.jpg</file>
+        <file>img/poster/events/this weekend/oye stand up.jpg</file>
+        <file>img/poster/events/today/navratri with falguni pathak.jpg</file>
+        <file>img/poster/events/today/one world many music.jpg</file>
+        <file>img/poster/events/today/rangilo re with parthiv gohel.jpg</file>
+        <file>img/poster/events/today/Sunburn City Festival.jpg</file>
+        <file>img/poster/events/today/the illusion.jpg</file>
+        <file>img/poster/events/tomorrow/imagica water park.jpg</file>
+        <file>img/poster/events/tomorrow/jagran filml festival.jpg</file>
+        <file>img/poster/events/tomorrow/medium size improve.jpg</file>
+        <file>img/poster/events/tomorrow/ride o fest.jpg</file>
+        <file>img/poster/events/tomorrow/wind mill fesival.jpg</file>
+        <file>img/poster/movies/english/aquaman-et00052996-02-02-2017-10-15-37.jpg</file>
+        <file>img/poster/movies/english/fantastic-beasts-the-crimes-of-grindelwald-et00065499-20-11-2017-06-10-21.jpg</file>
+        <file>img/poster/movies/english/first-man-et00072331-12-03-2018-02-10-27.jpg</file>
+        <file>img/poster/movies/english/johnny-english-3-et00072464-13-03-2018-02-29-58.jpg</file>
+        <file>img/poster/movies/english/mortal-engines-et00049704-28-11-2016-09-18-11.jpg</file>
+        <file>img/poster/movies/english/peppermint-et00077128-06-06-2018-01-01-47.jpg</file>
+        <file>img/poster/movies/english/robin-hood-et00072467-13-03-2018-02-47-40.jpg</file>
+        <file>img/poster/movies/english/spider-man-into-the-spider-verse-et00066988-11-12-2017-11-33-21.jpg</file>
+        <file>img/poster/movies/english/transformers-6-bumblebee-et00070010-29-01-2018-05-27-30.jpg</file>
+        <file>img/poster/movies/english/venom-et00069122-12-01-2018-12-51-14.jpg</file>
+        <file>img/poster/movies/gujarati/dhh.jpg</file>
+        <file>img/poster/movies/gujarati/natsamrat.jpg</file>
+        <file>img/poster/movies/gujarati/sharato-lagu.jpg</file>
+        <file>img/poster/movies/gujarati/shu-thayu.jpg</file>
+        <file>img/poster/movies/gujarati/tari-maate-once-more.jpg</file>
+        <file>img/poster/movies/gujarati/ventilator.jpg</file>
+        <file>img/poster/movies/hindi/gold.jpg</file>
+        <file>img/poster/movies/hindi/jalebi.jpg</file>
+        <file>img/poster/movies/hindi/kaashi.jpg</file>
+        <file>img/poster/movies/hindi/loveratri.jpg</file>
+        <file>img/poster/movies/hindi/manto.jpg</file>
+        <file>img/poster/movies/hindi/namastey.jpg</file>
+        <file>img/poster/movies/hindi/pataakha.jpg</file>
+        <file>img/poster/movies/hindi/satyameva-jayate.jpg</file>
+        <file>img/poster/movies/hindi/thugs-of-hindostan.jpg</file>
+        <file>img/poster/movies/trending/avengers-infinity-war-re-release-hindi-et00084171-17-09-2018-05-25-46.jpg</file>
+        <file>img/poster/movies/trending/captainmarvel.jpg</file>
+        <file>img/poster/movies/trending/first-man-et00072331-12-03-2018-02-10-27_T.jpg</file>
+        <file>img/poster/movies/trending/han solo.jpg</file>
+        <file>img/poster/movies/trending/loveratri_T.jpg</file>
+        <file>img/poster/movies/trending/mortal-engines-et00049704-28-11-2016-09-18-11_T.jpg</file>
+        <file>img/poster/movies/trending/natsamrat_T.jpg</file>
+        <file>img/poster/movies/trending/shu-thayu_T.jpg</file>
+        <file>img/poster/movies/trending/the-nun-et00060869-11-08-2017-12-27-31_T.jpg</file>
+        <file>img/poster/movies/trending/thugs-of-hindostan_T.jpg</file>
+        <file>img/poster/plays/next weekend/guru dakshina.jpg</file>
+        <file>img/poster/plays/next weekend/i,cloud.jpg</file>
+        <file>img/poster/plays/next weekend/jab sahar hamara sota he.jpg</file>
+        <file>img/poster/plays/next weekend/jab we saparated.jpg</file>
+        <file>img/poster/plays/next weekend/the inspector general.jpg</file>
+        <file>img/poster/plays/this weekend/chekhov ki dunia.jpg</file>
+        <file>img/poster/plays/this weekend/kaal chakra.jpg</file>
+        <file>img/poster/plays/this weekend/ram leela the play.jpg</file>
+        <file>img/poster/plays/this weekend/rang rangila gujarati.jpg</file>
+        <file>img/poster/plays/this weekend/shaatir.jpg</file>
+        <file>img/poster/plays/today/amruta gandhi not guilty.jpg</file>
+        <file>img/poster/plays/today/beauty and the beastjpg.jpg</file>
+        <file>img/poster/plays/today/emil and detectives.jpg</file>
+        <file>img/poster/plays/today/future tense.jpg</file>
+        <file>img/poster/plays/today/mirror mirror.jpg</file>
+        <file>img/poster/plays/tomorrow/amritlala.jpg</file>
+        <file>img/poster/plays/tomorrow/diploma in corruption.jpg</file>
+        <file>img/poster/plays/tomorrow/jab khuli kitaab.jpg</file>
+        <file>img/poster/plays/tomorrow/seharjpg.jpg</file>
+        <file>img/poster/plays/tomorrow/slice of life.jpg</file>
+        <file>img/poster/sports/this weekend/International Health, Sports and F.jpg</file>
+        <file>img/poster/sports/this weekend/Kumite One Fight League.jpg</file>
+        <file>img/poster/sports/today/Navi Mumbai Lets Run-Season 2.jpg</file>
+        <file>img/poster/sports/today/SBI Green Marathon (Mumbai).jpg</file>
+        <file>img/poster/sports/tomorrow/Mumbai Juniorthon.jpg</file>
+        <file>img/poster/sports/tomorrow/Mumbai Marathon 10K.jpg</file>
+    </qresource>
+</RCC>
